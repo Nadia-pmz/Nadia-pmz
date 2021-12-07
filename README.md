@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Nadia-pmz
 - 👀 I’m interested in Agent-based simulation, machine leaning and optimization in transportation and logistics
-- 🌱 I’m currently learning Discrete time ABS in Python
 - 📫 How to reach me nadia.pmz@gmail.com
 
 <!---
